@@ -16,3 +16,9 @@ A player can choose between two symbols with his opponent, usually game uses "X"
 a.	One of the players gets three of his/her marks in a row (vertically, horizontally, or diagonally) i.e. that player wins the game.<br/>
 b.	If no one can create a straight line with their own mark and all the positions on the board are occupied, then the game ends in a  draw/tie.
 
+### Technologies Used
+- HTML
+- CSS
+- JavaScript
+  
+
