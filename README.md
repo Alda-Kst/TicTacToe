@@ -20,5 +20,7 @@ b.	If no one can create a straight line with their own mark and all the position
 - HTML
 - CSS
 - JavaScript
+### Demo 
+You can check out a live demo of this gamme [here](https://alda-kst.github.io/TicTacToe/).
   
 
