@@ -11,4 +11,8 @@ The game can be played by two players.
 ### Game Rules
 A player can choose between two symbols with his opponent, usually game uses "X" and "O".
 1. The player who gets to play first will get the "O" mark(playerO) and the player who gets to play second will get the "X" mark(playerX). 
+2. Player O and X take turns making moves with playerO playing mark "O" and playerX playing mark "X".
+3. A player marks any of the 3x3 squares with his mark (“X” or “O”) and their aim is to create a straight line horizontally, vertically or diagonally with two intensions:<br/>
+a.	One of the players gets three of his/her marks in a row (vertically, horizontally, or diagonally) i.e. that player wins the game.<br/>
+b.	If no one can create a straight line with their own mark and all the positions on the board are occupied, then the game ends in a  draw/tie.
 
